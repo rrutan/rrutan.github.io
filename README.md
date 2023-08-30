@@ -1,4 +1,5 @@
-#For the Big Data Analytics - 594 at San Diego State University, Web Assignment 1
+Big Data Analytics - 594 at San Diego State University, Web Assignment 1
+
 1) I would like to introduce the following dataset, [National Centers for Environmental Information](https://www.ncei.noaa.gov/).
 The National Center for Environmental Information has an incredibly large amount of data including comprehensive oceanic, atmospheric, and geophysical data.  They archive about 230      terabytes of data every month. It allows users to search through data from NOAA from several locations, formats, time periods and scientific disciplines. The NCIE is the most extensive  collection of data collected by ships, radar, weather balloons, satellites, land-based stations, ocean buoys, remotely operated underwater vehicles, forecasting and climate models,   and paleoclimatological research.  The applications of this data are near limitless, but I can imagine a project in which marine biologists use ocean temperature data to help explain the change in animal migration patterns. This data could also be used by specialists in the field of public policy to plan for hurricanes and storms in coastal cities.
 
